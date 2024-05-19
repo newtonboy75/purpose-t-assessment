@@ -1,5 +1,17 @@
 Purpose T Form Assessment
 
+Front End: 
+
+- ReactJS
+- react-form-builder2
+
+Backend
+
+- NodeJS
+- Express
+- Sqlite
+
+
 How to install:
 
 1. Inside assessment-pt directory, open terminal and type:
