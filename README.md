@@ -8,4 +8,8 @@ npm install
 
 2. cd to server, type:
 
-npm stall
+npm install
+
+3. to run both front end and backend, type:
+
+npm start
